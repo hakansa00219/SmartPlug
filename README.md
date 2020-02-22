@@ -32,3 +32,19 @@ preparations you have to do connect MQTT , create MQTT server and electronic sid
 
 - If you want to really open the application , you can change the pathings in the code to your computers , it should work.
 
+**What I learned**
+
+- C# for UI.
+  - File I/O , Linq for cleaning data.
+  - UI/UX Design with Visual Studio , a little bit of WPF , XAML.
+  - Timers.
+  - Data binding.
+- Python for Pi and communication.
+  - Data storing.
+  - MQTT serverside,clientside programming.
+  - Arduino-Python serial communication.
+- Arduino
+  - ADC for ACS712
+  - Serial communication
+- Java for mobile app.
+- Circuit Desing
