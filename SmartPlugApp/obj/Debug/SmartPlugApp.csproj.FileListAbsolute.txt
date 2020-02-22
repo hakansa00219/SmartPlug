@@ -1,0 +1,10 @@
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\obj\Debug\SmartPlugApp.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\obj\Debug\SmartPlugApp.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\obj\Debug\SmartPlugApp.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\bin\Debug\SmartPlugApp.exe.config
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\bin\Debug\SmartPlugApp.exe
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\bin\Debug\SmartPlugApp.pdb
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\obj\Debug\SmartPlugApp.Plug.resources
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\obj\Debug\SmartPlugApp.exe
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\obj\Debug\SmartPlugApp.pdb
+C:\Users\Hakan\Desktop\Bitirme\SmartPlugApp\SmartPlugApp\obj\Debug\SmartPlugApp.csprojAssemblyReference.cache
