@@ -47,4 +47,4 @@ preparations you have to do connect MQTT , create MQTT server and electronic sid
   - ADC for ACS712
   - Serial communication
 - Java for mobile app.
-- Circuit Desing
+- Circuit Design
